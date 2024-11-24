@@ -1,0 +1,29 @@
+.container{
+    positon:relative;
+    background-color:lightblue;
+    height:80vh;
+    widht:100vw;
+    margin:2em;
+    border-radius:5em;
+}
+.header{
+    color:white;
+    font-size: 2em;
+    margin:1em;
+}
+.button{
+    height:5em;
+    paddin:2em;
+    margin:2em 0em 0em 0em;
+    border-radius:0.5em;
+
+    background-color:hsl(195, 53%, 90%);
+
+}
+.text_add{
+    height:3em;
+    border-radius:5em;
+    width:25em;
+    background-color:hsl(195, 53%, 90%);
+
+}
